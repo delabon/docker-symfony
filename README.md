@@ -1,4 +1,4 @@
-## Docker for symfony 6.2+
+## Docker for Symfony 6.2+
 
 ### Add domain to /etc/hosts (host)
 
