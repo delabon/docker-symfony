@@ -21,13 +21,13 @@ mkcert -install symfony.test
 ### Up containers (host)
 
 ```bash
-sudo docker-compose up --build -d
+docker-compose up --build -d
 ```
 
 ### Connect to container bash (host)
 
 ```bash
-sudo docker exec -it container_id bash
+docker exec -it container_id bash
 ```
 
 ### Install symfony (php-container)
